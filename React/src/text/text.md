@@ -1,10 +1,6 @@
 ﻿# This is an <h1> tag
 
-<<<<<<< HEAD
-#master Testaaaaaaa master Test
-=======
 #RT2 test
->>>>>>> fe1c1b45dc6a20f3ad59c4004884372b4ae8c3cb
 
 ## This is an <h2> tag
 
